@@ -19,7 +19,7 @@
  *Note* you need `-i ''` on macOS and just `-i` on Linux.
 
  * Contexts and capabilities -> The display name of your group e.g. "Inline ASM".
- * {{INITIATIVE_SLUG}} -> The url slug name of your group used for
+ * contexts-capabilities-initiative -> The url slug name of your group used for
    `rust-lang/team` and repo name. e.g. "pg-inline-asm".
  * {{CHAT_PLATFORM}} -> The name of your chat app e.g. "Zulip".
  * {{CHAT_LINK}} -> The hyperlink to your discussions on the chat app
@@ -79,7 +79,7 @@ We also participate on [{{CHAT_PLATFORM}}][chat-link], feel free to introduce yo
 
 [open issues]: /issues
 [chat-link]: {{CHAT_LINK}}
-[team-toml]: https://github.com/rust-lang/team/blob/master/teams/initiative-{{INITIATIVE_SLUG}}.toml
+[team-toml]: https://github.com/rust-lang/team/blob/master/teams/initiative-contexts-capabilities-initiative.toml
 
 ## Building Documentation
 This repository is also an mdbook project. You can view and build it using the

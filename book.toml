@@ -7,9 +7,9 @@ title = "Contexts and capabilities initiative"
 
 [output.html]
 no-section-label=true
-git-repository-url="https://github.com/rust-lang/{{INITIATIVE_SLUG}}"
-edit-url-template="https://github.com/rust-lang/{{INITIATIVE_SLUG}}/edit/master/{path}"
-site-url="/{{INITIATIVE_SLUG}}/"
+git-repository-url="https://github.com/nikomatsakis/contexts-capabilities-initiative"
+edit-url-template="https://github.com/nikomatsakis/contexts-capabilities-initiative/edit/master/{path}"
+site-url="/contexts-capabilities-initiative/"
 
 [output.html.fold]
 enable = true
